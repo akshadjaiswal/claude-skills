@@ -55,7 +55,7 @@ npx skills add akshadjaiswal/claude-skills
 
 ## Adding More Skills
 
-More skills coming soon. This repo follows the [Agent Skills specification](https://agentskills.io/specification) — each skill is a directory with a `SKILL.md` file.
+More skills coming soon. This repo follows the [Agent Skills specification](https://agentskills.io/specification) — each skill lives in `skills/<skill-name>/SKILL.md`.
 
 ## License
 
